@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mzu Soci - Surveillance Analyst</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mzu Soci</h1>
+        <h2>Surveillance Analyst</h2>
+        <p>Email: mzusoci@example.com | Phone: (123) 456-7890</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h3>About Me</h3>
+        <p>Detail-oriented Surveillance Analyst with over 5 years of experience in monitoring and analyzing surveillance data to enhance security protocols. Proven track record in identifying potential threats and implementing effective solutions.</p>
+    </section>
+
+    <section id="experience">
+        <h3>Experience</h3>
+        <ul>
+            <li>
+                <h4>Surveillance Analyst</h4>
+                <p>XYZ Security Solutions, 2020 - Present</p>
+                <ul>
+                    <li>Monitored surveillance feeds and analyzed data to identify suspicious activities.</li>
+                    <li>Collaborated with law enforcement agencies to provide actionable intelligence.</li>
+                    <li>Developed and implemented new surveillance protocols that improved response times by 30%.</li>
+                </ul>
+            </li>
+            <li>
+                <h4>Junior Surveillance Analyst</h4>
+                <p>ABC Security Services, 2018 - 2020</p>
+                <ul>
+                    <li>Assisted in the monitoring of surveillance systems and reporting incidents.</li>
+                    <li>Conducted regular audits of surveillance equipment to ensure functionality.</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h3>Education</h3>
+        <ul>
+            <li>
+                <h4>Bachelor of Science in Criminal Justice</h4>
+                <p>University of Somewhere, 2014 - 2018</p>
+            </li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h3>Skills</h3>
+        <ul>
+            <li>Surveillance Systems Management</li>
+            <li>Data Analysis</li>
+            <li>Threat Assessment</li>
+            <li>Report Writing</li>
+            <li>Communication and Collaboration</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h3>Contact Me</h3>
+        <p>If you would like to get in touch, please reach out via email or phone.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Mzu Soci. All rights reserved.</p>
+    </footer>
+</body>
+</html>
